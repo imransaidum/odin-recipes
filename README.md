@@ -1,1 +1,1 @@
-# odin-recipe
+I am so happy to inform anyone who comes across this code. This is my first real project as an assignment after I have just completed the basic Hypertext Markup language training on The odin project. By the end of this project I will have showcased and reflected back to the things i have learned such as tags, elements, attributes, commit messages, etc.
